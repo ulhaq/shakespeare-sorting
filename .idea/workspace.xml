@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="037e8fc5-c2ed-4eb7-8f76-905d875b6e9f" name="Default Changelist" comment="" />
+    <list default="true" id="037e8fc5-c2ed-4eb7-8f76-905d875b6e9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment 2/META-INF/Assignment 2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment 2/com/sorting/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment 2/com/sorting/java/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sorting/java/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sorting/java/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sorting/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sorting/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Assignment 2" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,24 +23,28 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XcHqVEDrHy0ygt6zGSk5P3u6pB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Testing/Assignment 1/bank/src" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ProBook 470G2\OneDrive\Projects\School\Copenhagen Business School\Soft\Algorithms\Assignment 2\src\com\sorting\resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ProBook 470G2\OneDrive\Projects\School\Copenhagen Business School\Soft\Algorithms\Assignment 2\src\com\sorting" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ProBook 470G2\OneDrive\Projects\School\Copenhagen Business School\Soft\Algorithms\Assignment 2\src\com\sorting\resources" />
     </key>
   </component>
   <component name="RunManager">
@@ -77,62 +86,74 @@
       <workItem from="1583387938793" duration="657000" />
       <workItem from="1583590963802" duration="2318000" />
       <workItem from="1583700646479" duration="107000" />
+      <workItem from="1583951276402" duration="657000" />
+      <workItem from="1591094287755" duration="1773000" />
+      <workItem from="1591102766172" duration="2610000" />
+      <workItem from="1591130131763" duration="13816000" />
+      <workItem from="1591180730229" duration="2454000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1085" y="410" key="#com.intellij.ide.util.MemberChooser" timestamp="1581935158997">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1085" y="410" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1581935158997" />
     <state x="1060" y="459" key="FileChooserDialogImpl" timestamp="1583387993856">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1583387993856" />
-    <state width="2517" height="404" key="GridCell.Tab.0.bottom" timestamp="1583223877454">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1591183173047">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582018939258" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591183173047" />
     <state width="2517" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583223877454" />
-    <state width="2517" height="404" key="GridCell.Tab.0.center" timestamp="1583223877453">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1591183173047">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582018939258" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591183173047" />
     <state width="2517" height="404" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583223877453" />
-    <state width="2517" height="404" key="GridCell.Tab.0.left" timestamp="1583223877453">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1591183173047">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582018939257" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591183173047" />
     <state width="2517" height="404" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583223877453" />
-    <state width="2517" height="404" key="GridCell.Tab.0.right" timestamp="1583223877453">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1591183173047">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582018939258" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591183173047" />
     <state width="2517" height="404" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583223877453" />
-    <state x="987" y="334" width="586" height="732" key="find.popup" timestamp="1581933716058">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591146393399">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="987" y="334" width="586" height="732" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1581933716058" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591146393399" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591146393399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591146393399" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591146393399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591146393399" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591146393399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591146393399" />
     <state x="342" y="147" key="new project wizard" timestamp="1583700751121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="147" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583700751121" />
-    <state x="988" y="326" key="refactoring.ChangeSignatureDialog" timestamp="1581340995529">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="988" y="326" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581340995529" />
-    <state x="821" y="323" key="run.anything.popup" timestamp="1583219838270">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581507284243" />
-    <state x="821" y="323" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1583219838270" />
-    <state x="707" y="234" width="672" height="504" key="search.everywhere.popup" timestamp="1583700693003">
+    <state x="666" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1591181000321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="707" y="234" width="672" height="504" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583700693003" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1581935267747" />
+    <state x="666" y="277" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591181000321" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1591181218340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591181218340" />
+    <state x="821" y="323" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1583219838270" />
+    <state x="707" y="234" width="672" height="504" key="search.everywhere.popup" timestamp="1591181108663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="234" width="672" height="504" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591181108663" />
   </component>
 </project>

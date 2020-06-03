@@ -12,7 +12,7 @@ The following results are based on sorting the [Shakespeare_Short.txt](src/com/s
 
 |Algorithm|Time Complexity|Space Complexity|Time in Milliseconds|
 |---|---|---|---|
-|Selection Sort|O(n^2)|O(1)|3213|
-|Insertion Sort|O(n^2)|O(1)|2329|
-|Heap Sort|O(nLog(n))|O(1)|54|
-|Merge Sort|O(nLog(n))|O(n)|48|
+|Selection Sort|O(n^2)|O(1)|2672|
+|Insertion Sort|O(n^2)|O(1)|1495|
+|Heap Sort|O(nLog(n))|O(1)|38|
+|Merge Sort|O(nLog(n))|O(n)|33|

@@ -8,40 +8,44 @@ public class Heap implements Sort {
 
         int n = arr.size();
 
-        for (int i = n / 2 - 1; i >= 0; i--) {
-            heapify(arr, n, i);
+        for (int k = n / 2; k >= 1; k--) {
+            sink(arr, k, n);
         }
 
-        for (int i = n - 1; i >= 0; i--) {
-            String temp = arr.get(0);
-            arr.set(0, arr.get(i));
-            arr.set(i, temp);
-
-            heapify(arr, i, 0);
+        int k = n;
+        while (k > 1) {
+            swap(arr, 1, k--);
+            sink(arr, 1, k);
         }
 
         System.out.println(Sort.endTimer() - startTime);
     }
 
-    static void heapify(List<String> arr, int n, int i) {
-        int largest = i;
-        int l = 2 * i + 1;
-        int r = 2 * i + 2;
+    private static void sink(List<String> arr, int k, int n) {
+        while (2 * k <= n) {
+            int j = 2 * k;
 
-        if (l < n && arr.get(l).compareTo(arr.get(largest)) > 0) {
-            largest = l;
+            if (j < n && less(arr, j, j + 1)) {
+                j++;
+            }
+
+            if (!less(arr, k, j)) {
+                break;
+            }
+
+            swap(arr, k, j);
+
+            k = j;
         }
+    }
 
-        if (r < n && arr.get(r).compareTo(arr.get(largest)) > 0) {
-            largest = r;
-        }
+    private static boolean less(List<String> arr, int i, int j) {
+        return arr.get(i - 1).compareTo(arr.get(j - 1)) < 0;
+    }
 
-        if (largest != i) {
-            String swap = arr.get(i);
-            arr.set(i, arr.get(largest));
-            arr.set(largest, swap);
-
-            heapify(arr, n, largest);
-        }
+    private static void swap(List<String> arr, int i, int j) {
+        String temp = arr.get(i - 1);
+        arr.set(i - 1, arr.get(j - 1));
+        arr.set(j - 1, temp);
     }
 }
